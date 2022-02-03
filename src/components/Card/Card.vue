@@ -1,17 +1,16 @@
 <template>
-<div className='card-container'>
-<img
-alt='monster'
-src='https://robohash.org/${id}?set=set2&size=180x180'
-/>
-<h2> {name} </h2>
-<p> {email} </p>
-</div>
+  <div className='card-container'>
+    <img
+    alt='monster'
+    src='https://robohash.org/1?set=set2&size=180x180'
+    />
+    <h2> Eriven </h2>
+    <p> eriven123@gmail.com </p>
+  </div>
 </template>
+
 <script>
-export default {
-    name: 'card'    
-}
+
 </script>
 
 <style >
