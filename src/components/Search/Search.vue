@@ -9,7 +9,10 @@
 </template>
 
 <script>
-
+export default {
+  name: 'Search',
+  components: { Search }
+}
 </script>
 
 <style>
